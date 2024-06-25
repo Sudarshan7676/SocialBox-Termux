@@ -83,10 +83,8 @@ chmod +x install-sb.sh
 # for any os :
 * [socialbox](https://github.com/samsesh/SocialBox)
 # Contact
-* [Youtube](https://www.Youtube.com/@samseshtech) - samseshtech
-* [Instagram](https://www.instagram.com/samseshtech) - samseshtech
-* [Twitter](https://www.twitter.com/_samsesh) - _samsesh
-* [Instagram](https://www.instagram.com/samses) - sam.sesh
+* [TELEGRAM]
+  (https://t.meIts_hacker546)
 # Authors :
 * facebook  : Imad
 * gmail     : Ha3MrX
