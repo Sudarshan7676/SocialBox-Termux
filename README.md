@@ -82,9 +82,7 @@ chmod +x install-sb.sh
 - [doante page](https://github.com/samsesh/donate)
 # for any os :
 * [socialbox](https://github.com/samsesh/SocialBox)
-# Contact
-* [TELEGRAM]
-  @Its_hacker546
+
 # Authors :
 * facebook  : Imad
 * gmail     : Ha3MrX
