@@ -84,7 +84,7 @@ chmod +x install-sb.sh
 * [socialbox](https://github.com/samsesh/SocialBox)
 # Contact
 * [TELEGRAM]
-  (https://t.meIts_hacker546)
+  @Its_hacker546
 # Authors :
 * facebook  : Imad
 * gmail     : Ha3MrX
