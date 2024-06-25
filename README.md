@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# SocialBox-Termux
+
 SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh
 # Installation
 ```
