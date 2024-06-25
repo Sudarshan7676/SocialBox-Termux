@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh
+SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By ROHAN ROY Edit By SUDRSHAN KUMAR
 # Installation
 ```
 apt-get update
